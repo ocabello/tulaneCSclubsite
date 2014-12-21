@@ -1,3 +1,5 @@
+
+```html
 <h1>Stub for the CS club site.</h1>
 
 
@@ -9,3 +11,4 @@
 <li>About us</li>
 <li>Profile pages for students</li>
 </ul>
+```
