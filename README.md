@@ -1,6 +1,7 @@
 
 <h1>Stub for the CS club site.</h1>
 
+<p>Hosted at: https://peaceful-hamlet-2200.herokuapp.com until it is ready for other people to see </p>
 
 <h2>TODO:</h2>
 
